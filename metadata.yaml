@@ -1,0 +1,35 @@
+_repo: The-Voice-of-the-City--Further-Stories-of-the-Four-Million_1444
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+description: ''
+gutenberg_issued: '1998-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The voice of the city -- The complete life of John Hopkins -- A lickpenny
+  lover -- Dougherty's eye-opener -- "Little speck in garnered fruit" -- The harbinger
+  -- While the auto waits -- A comedy in rubber -- One thousand dollars -- The defeat
+  of the city -- The shocks of doom -- The Plutonian fire -- Nemesis and the candy
+  man -- Squaring the circle -- Roses, ruses and romance -- The city of dreadful night
+  -- The Easter of the soul -- The fool-killer -- Transients in Arcadia -- The rathskeller
+  and the rose -- The clarion call -- Extradited from Bohemia -- A Philistine in Bohemia
+  -- From each according to his ability -- The memento.
+title: 'The Voice of the City: Further Stories of the Four Million'
+url: http://www.gutenberg.org/ebooks/1444
