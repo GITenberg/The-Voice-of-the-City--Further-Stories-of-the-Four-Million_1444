@@ -1,5 +1,8 @@
 _repo: The-Voice-of-the-City--Further-Stories-of-the-Four-Million_1444
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Henry, O.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/634
     wikipedia: http://en.wikipedia.org/wiki/O._Henry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1444#The-Voice-of-the-City--Further-Stories-of-the-Four-Million
 gutenberg_issued: '1998-09-01'
 gutenberg_type: Text
 identifiers:
